@@ -1,0 +1,37 @@
+{
+  "name": "ngx-kiril-lotin",
+  "version": "1.2.1",
+  "description": "Matnni kirildan lotinga yoki lotindan kirilga o'giradi",
+  "author": {
+    "name": "Odilbek Utamuratov",
+    "email": "odil.utamuratov@gmail.com",
+    "url": "https://medium.com/@odil.utamuratov"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/utamuratov/kiril-lotin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/utamuratov/kiril-lotin/issues",
+    "email": "odil.utamuratov@gmail.com"
+  },
+  "homepage": "https://stackblitz.com/edit/angular-pnxs4z?file=src%2Fmain.ts",
+  "keywords": [
+    "angular",
+    "angular 15",
+    "angular 16",
+    "kiril-lotin",
+    "lotin-kiril",
+    "kiril",
+    "lotin",
+    "uz"
+  ],
+  "peerDependencies": {
+    "@angular/common": ">=15.0.0",
+    "@angular/core": ">=15.0.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "sideEffects": false
+}
