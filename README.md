@@ -4,4 +4,4 @@ Ushbu kutubxona O'zbek tilidagi matnni kiril dan lotinga yoki lotindan kirilga o
 
 # Algoritm
 
-Hozirda algoritm ushbu author tomonidan qilingan: [Uroljon Khidirboev](https://github.com/Uroljon).
+Hozirda algoritm ushbu author tomonidan qilingan: [Izzatbek Ulkanov](https://github.com/izzatbekulkanov).
